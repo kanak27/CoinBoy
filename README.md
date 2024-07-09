@@ -30,7 +30,7 @@ Make sure you have Java and LibGDX installed on your machine.
 
 1. Clone the repository:
 ```Bash
-git clone https://github.com/your-username/CoinBoy.git
+git clone https://github.com/kanak27/CoinBoy.git
 ```
 
 
